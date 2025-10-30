@@ -27,4 +27,4 @@
 </a>
 
 ### Estatísticas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenilsonp40&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piressjp&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
